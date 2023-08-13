@@ -6,11 +6,13 @@
             "Sitemap\\Generator\\": "src/"
         }
     },
+    "license": "MIT",
     "authors": [
         {
             "name": "BumBonb"
         }
     ],
     "require": {
-    }
+    },
+    "minimum-stability": "dev"
 }

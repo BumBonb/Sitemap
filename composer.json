@@ -1,0 +1,16 @@
+{
+    "name": "sitemap/generator",
+    "description": "sitemap",
+    "autoload": {
+        "psr-4": {
+            "Sitemap\\Generator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "BumBonb"
+        }
+    ],
+    "require": {
+    }
+}
